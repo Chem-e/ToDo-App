@@ -1,0 +1,52 @@
+.background-grey {
+    background: #e7e7e7;
+}
+
+.color-grey {
+    color: #c0c0c0;
+}
+
+
+/* border pink :#efd2d3 */
+
+.color-dark-grey {
+    color: #786b65;
+}
+
+.color-light-grey {
+    color: #9b9b9b;
+}
+
+.font-size-30 {
+    font-size: 30px;
+}
+
+.font-size-100 {
+    font-size: 100px;
+}
+
+.header {
+    border-bottom: 3px solid #d8d8d8;
+}
+
+.icon {
+    border-right: 3px solid #efd2d3;
+}
+
+.text {
+    border-left: 3px solid #efd2d3;
+}
+
+.todo-card {
+    width: 45rem;
+    border-top: 20px solid #786962;
+}
+
+.footer {
+    width: 44rem;
+}
+
+.btn-group>.tabs:focus {
+    font-size: 18px !important;
+    border: none !important;
+}
