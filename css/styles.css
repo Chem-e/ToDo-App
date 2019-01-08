@@ -2,6 +2,10 @@
     background: #e7e7e7;
 }
 
+.background-light-grey {
+    background: #f7f7f7;
+}
+
 .color-grey {
     color: #c0c0c0;
 }
@@ -35,11 +39,22 @@
 
 .text {
     border-left: 3px solid #efd2d3;
+    word-wrap: break-word;
 }
 
 .todo-card {
     width: 45rem;
     border-top: 20px solid #786962;
+}
+
+.input {
+    border: none;
+    width: 38rem;
+    height: 70px;
+}
+
+#close:hover {
+    color: red;
 }
 
 .footer {
