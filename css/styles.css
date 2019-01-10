@@ -10,9 +10,6 @@
     color: #c0c0c0;
 }
 
-
-/* border pink :#efd2d3 */
-
 .color-dark-grey {
     color: #786b65;
 }
@@ -40,6 +37,7 @@
 .text {
     border-left: 3px solid #efd2d3;
     word-wrap: break-word;
+    width: 87%;
 }
 
 .todo-card {
